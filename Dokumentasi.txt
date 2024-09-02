@@ -1,0 +1,5 @@
+- Untuk mengakses dan menjalankan API, anda bisa menginstall terlebih dahulu package yang ada di API 
+- API dapat diakses melalui 127.0.0.1:5000/docs/
+- API ini memiliki terdiri dari 2 model, yaitu Model LSTM dan Model MLP Classifier
+- API memiliki 4 enpoint yaitu input teks dan file untuk model LSTM serta input teks dan file untuk model MLP Classifier
+- Untuk memproses data silahkan klik sesuai dengan model dan tipe input data yang Anda inginkan kemudian klik Try it Out dan Execute  

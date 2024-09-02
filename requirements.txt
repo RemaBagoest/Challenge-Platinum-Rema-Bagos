@@ -1,0 +1,6 @@
+flask
+pandas
+flasgger
+Sastrawi
+seaborn
+plotly
